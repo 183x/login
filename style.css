@@ -90,3 +90,11 @@ div#B {
 div#C {
     text-align: center;
 }
+
+div#E {
+  font-size:  15px;
+  color: #ff0000;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
